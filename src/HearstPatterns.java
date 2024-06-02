@@ -1,5 +1,3 @@
-// 322624206 Daniel Talker
-
 /**
  * The interface Hearst patterns represents a pattern used in Hearst patterns
  * extraction.
