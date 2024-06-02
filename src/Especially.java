@@ -1,5 +1,3 @@
-// 322624206 Daniel Talker
-
 /**
  * The class Especially represents the "especially NP" pattern used in Hearst
  * patterns extraction.
