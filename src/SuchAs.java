@@ -1,5 +1,3 @@
-// 322624206 Daniel Talker
-
 /**
  * The class SuchAs represents the "such as" pattern used in Hearst patterns
  * extraction.
