@@ -1,5 +1,3 @@
-// 322624206 Daniel Talker
-
 /**
  * The class Including represents the "including NP" pattern used in Hearst
  * patterns extraction.
