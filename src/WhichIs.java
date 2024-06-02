@@ -1,5 +1,3 @@
-// 322624206 Daniel Talker
-
 /**
  * The class WhichIs represents the "which is NP" pattern used in Hearst
  * patterns extraction.
