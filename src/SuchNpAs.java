@@ -1,5 +1,3 @@
-// 322624206 Daniel Talker
-
 /**
  * The class SuchNpAs represents the "such NP as" pattern used in Hearst
  * patterns extraction.
