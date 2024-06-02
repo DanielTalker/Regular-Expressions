@@ -1,5 +1,3 @@
-// 322624206 Daniel Talker
-
 import java.io.IOException;
 
 /**
